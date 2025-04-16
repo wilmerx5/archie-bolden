@@ -2,7 +2,7 @@
 
 
 ## Demostration
- 
+ You can find a demostrataion of how to use the app here:
  https://www.youtube.com/watch?v=fGwXqfjV5Qc&ab_channel=lewildev
 
 **Job Board Mini** is a lightweight WordPress plugin created to manage and display job listings through a custom post type and easy-to-use shortcodes. This plugin provides a clean layout using Tailwind CSS and includes sample data to help get started quickly.
@@ -16,16 +16,18 @@
 - Admin shortcode view page
 - Option to insert sample job listings
 - Styled with TailwindCSS via CDN
-
+- Minimal design that adapts to most WordPress themes
+- Modular and scalable codebase
 ---
 
 ##  Installation & Setup
 
 1. **Download or Clone this Repository:**
    git clone https://github.com/your-username/job-board-mini.git
+
 2. **Active The theme and the plugin**
 3. **Go to the submenu page insert sample jobs and inserted it**
-4 **Go to home page and test the app**
+4. **Go to home page and test the app**
 
 
 ## Technical Decisions
@@ -55,9 +57,18 @@ Sample data is intended only for testing and should be deleted or modified for p
 It is assumed that the site does not require complex features like job applications, categories, or filters—this is a minimal plugin by design.
 
 
-## IA
-IA was used  to create som style in tailwind and documentation
+## AI Contribution
+AI was used to assist with:
+
+Styling suggestions with Tailwind CSS
+
+Creating sample content and layout
+
+Writing and structuring the documentation
 
 ## Documentation
 The documentation of this plugin was written with the help of ChatGPT to ensure clarity, consistency, and a smooth setup experience for developers and users alike. This AI-assisted approach was used to structure and organize the README to save time and enhance the overall user experience.
 
+##  Author
+Wilmer Campos Arevalo
+📧 wilmercampos2004@gmail.com
